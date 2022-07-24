@@ -28,5 +28,5 @@
 
 <div> <img src="https://stats.justsong.cn/api/csdn?id=Wangdewei1&theme=dark"> </div>
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=永不放弃是你梦想实现的秘诀&center=true&size=27"> </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=永不放弃是你梦想实现的秘诀！！！&center=true&size=27"> </h1>
 
