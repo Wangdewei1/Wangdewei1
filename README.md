@@ -19,3 +19,8 @@
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Wangdewei1&theme=onedark"> </div>
 
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Wangdewei1&left_color=green&right_color=red"> </div>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Wangdewei1&theme=dracula">
+
+
