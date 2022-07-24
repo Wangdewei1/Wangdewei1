@@ -2,7 +2,8 @@
 ![](https://https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-red)
 
 <h1 align="center">Hi 👋, I'm WangDDwei</h1>
-<h3 align="center">NO NO NO</h3>
+<h1 align="left"> <img src="https://readme-typing-svg.herokuapp.com/?lines=想要快速成为Java大佬，正在努力！&center=true&size=27"> </h1>
+<h3 align="left">当欢笑淡成沉默，当决定信念变成掉落，我走近胡想的脚步，是不是还是果断执着；当笑容流掉在心的戈壁，当霜雪冰封了亲情承诺，我无奈的心中，是不是仍然碧绿鲜活。有谁不巴望收成，有谁没有过苦涩，有谁不但愿生命的枝头挂满丰富，有谁愿意让但愿变成梦中的花朵。实际和抱负之间，不变的是跋涉，暗淡与光辉之间，不变的是开辟。甩掉落世俗的羁绊，没谁愿意，让平生在凑数其间中度过。清算你的行装，不合的出发点，可以达到一样光辉的终点。人生没有对错，成功永久属于奋斗者。——《糊口》</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +31,4 @@
 
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=永不放弃是你梦想实现的秘诀！！！&center=true&size=27"> </h1>
 
+<EMBED src="http://www.yinyueke.net/#nbwzcom"autostart="true" loop="true" hidden="true"> 
