@@ -1,8 +1,3 @@
-![image](https://github.com/Wangdewei1/Wangdewei1/blob/master/Wangdewei1/src=http___cdn.duitang.com_uploads_item_201611_04_20161104104713_KrYQT.gif&refer=http___cdn.duitang.gif)
-
-
-![image](https://github.com/Wangdewei1/Wangdewei1/blob/master/Wangdewei1/src=http___cdn.duitang.com_uploads_item_201611_04_20161104104713_KrYQT.gif&refer=http___cdn.duitang.png)
-
 
 <h1>
 1、本项目，是基于Springboot开发的企业招聘系统
@@ -12,11 +7,6 @@
 5、服务器Tomcat8.5.75
 6、开发工具，idea；eclipse也可运行，自行调试
 </h1>
-
-![image](https://github.com/Wangdewei1/Wangdewei1/blob/master/Wangdewei1/src=http___c-ssl.duitang.com_uploads_item_201704_04_20170404170235_wEQf8.thumb.400_0.gif&refer=http___c-ssl.duitang.png)
-
-
-![image](https://github.com/Wangdewei1/Wangdewei1/blob/master/Wangdewei1/src=http___c-ssl.duitang.com_uploads_item_201704_04_20170404170235_wEQf8.thumb.400_0.gif&refer=http___c-ssl.duitang.gif)
 
 ![](https://https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-red)
 
